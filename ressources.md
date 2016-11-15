@@ -52,6 +52,7 @@ Exhaustive list of ressource material and references per topic. Needs futher sel
 
 - Nice link to give to the student: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 - "data challenges" https://www.kaggle.com/
+- Minimal implementation of ML algorithms (Python/Numpy), ideal for teachning: https://github.com/rushter/MLAlgorithms
 
 ## Python & machine learning applied to Astronomy / Astrophysics
 
