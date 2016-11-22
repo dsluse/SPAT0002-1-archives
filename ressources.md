@@ -34,6 +34,7 @@ Exhaustive list of ressource material and references per topic. Needs futher sel
 ## Python programming (general)
 
 - List of python resources useful for beginners: http://foresightr.com/2016/08/23/an-evolving-list-of-python-resources/
+- Very good talk on numpy basics: https://www.youtube.com/watch?v=EEUXKG97YRw
 
 ## Python for Science
 
