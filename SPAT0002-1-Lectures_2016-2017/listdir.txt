@@ -1,0 +1,10 @@
+01-Intro_to_python/Intro-linux-python.ipynb
+02-Main_useful_python_modules/Modules_in__python.ipynb
+02-Main_useful_python_modules/Recap_python_L1.ipynb
+03-Basic statistics_and_proba_concepts/Basic-statistics.ipynb
+03-Basic statistics_and_proba_concepts/Descriptive_statistics.ipynb
+04-Basic_statistical_inference_frequentists_2/Frequentist_inference.ipynb
+05-MLE_and_regression_freqentists_3/MLE_and_regression.ipynb
+06-Bayesian_inference_MCMC/Bayes_inference_MCMC.ipynb
+06-Bayesian_inference_MCMC/Exr-Make_your_own_MCM.ipynb
+07-Astropy/Astropy-basics.ipynb
