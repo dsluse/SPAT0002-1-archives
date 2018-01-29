@@ -1,16 +1,18 @@
 # SPAT0002-1 organization and schedule
 
-Schema actuel: 10h+20h -> au moins 2h30 par cours (aucun cours ne peut sauter) voir 3h (-> 10 semaines)
+Schema actuel: 10h+20h 
 
-## Calendrier actuel 2016-2017:
-2e quadrimestre : 12 semaines (14 - 2 semaines de congé)
+## Calendar 2017-2018:
 
-- **activités d'enseignement** : du lundi 6 février au samedi 13 mai 2017
-- **vacances** : du lundi 3 avril au samedi 15 avril 2017
-- **session** : du lundi 15 mai au vendredi 30 juin 2017
+Teaching: 
+Monday 5/02/2018 – Friday 11/05/2018
+To be cancelled: March 12th 2018
 
-## Idea for student feedback and improvement
+Holidays:
+11/02/2018 -> 16/02/2018 
+02/04/2018 -> 13/04/2018
 
-An interesting idea is to give students "STICKY NOTES" (red/green post-it) to put when they
-completed something/need help, and minutes card that consists in giving some feedback after each
-lecture on what was good / bad (not clear, ...) so one can collect them and improve for the next time.
+Exam session: 
+S1: Monday 14/05/2018 - Friday 29/06/2018
+S2: Thursday 16/08/2018 - Monday 10/09/2018
+
